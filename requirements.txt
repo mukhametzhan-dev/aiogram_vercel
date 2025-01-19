@@ -2,3 +2,4 @@ python-dotenv
 aiogram==2.25.1
 uvicorn
 fastapi
+aiohttp==3.8.5
